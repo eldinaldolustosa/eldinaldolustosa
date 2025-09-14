@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Ed.</h1>
-<h3 align="center">A passionate frontend developer from Brazil. Today I'm living in America, Deerfield Beach/FL just 1 year and 6 months. I worked for 19 years in IT's companies (programmer, teacher, DBA, system analist, designer and tester). My goal today it's return to programing area and work to a big tech company in the USA and will be part of a big team.</h3>
+<h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
+<h3 align="center">A passionate frontend developer from Brazil. Today I'm living in America, Deerfield Beach/FL just 1 year and 6 months. I worked for 32 years in IT's companies (yes I'm start with autoditata knowlegment at 15 years old) as  a programmer, teacher, DBA, system analist, project management and tester. My goal today it's start to work in a IT company in the USA and will be part of a big team.</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **trippleten frontend programmer**
+- 🌱 I’m currently looking for a **QA Engineer Software Test ** job
 
 - 👯 I’m looking to collaborate on **programing team in IT's companies**
 
-- 🤝 I’m looking for help with **programing in a projects**
+- 🤝 I’ll help you with **automatic tests** in projects
 
 - 💬 Ask me about **my large experience with big companies in Brazil**
 

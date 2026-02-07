@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently looking for a **QA Engineer Software Test ** job
+- 🌱 I’m currently looking for a **QA Engineer Software Test** job and to collaborate on **programing IT team in American companies**
 
-- 👯 I’m looking to collaborate on **programing team in IT's companies**
-
-- 🤝 I’ll help you with **automatic tests** in projects
+- 🤝 I’ll help you with **manual and automatic tests** projects
 
 - 💬 Ask me about **my large experience with big companies in Brazil and USA**
 

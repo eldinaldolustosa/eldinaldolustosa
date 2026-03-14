@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
-<h2 align="left">
-## QA Software Engineer | Automation | Quality Engineering <br><br>
+<h5 align="left">
+### QA Software Engineer | Automation | Quality Engineering <br><br>
 I am a passionate **QA Software Engineer from Brazil**, currently based in **Deerfield Beach, Florida (USA)**.
 
 I bring over **30 years of experience in Information Technology**, starting my career at the age of 15 as a self-taught developer. Throughout my professional journey, I have built strong expertise across **software development, database engineering, software testing, and technical education**.
@@ -48,7 +48,7 @@ Testing should provide fast feedback to developers and support continuous delive
 ### Let's Connect
 
 If you are a recruiter or engineering leader interested in **QA Automation, Software Testing, or Quality Engineering**, feel free to connect with me on **LinkedIn**.
-</h2>
+</h5>
 
 - 🔭 I’m currently working on **Sales Automation Testing**
 

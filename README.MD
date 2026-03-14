@@ -3,7 +3,8 @@
 ### QA Software Engineer | Automation | Quality Engineering <br><br>
 I am a passionate **QA Software Engineer from Brazil**, currently based in **Deerfield Beach, Florida (USA)**.
 
-I bring over **30 years of experience in Information Technology**, starting my career at the age of 15 as a self-taught developer. Throughout my professional journey, I have built strong expertise across **software development, database engineering, software testing, and technical education**.
+I bring over **30 years of experience in Information Technology**, starting my career at the age of 15 as a self-taught developer. 
+Throughout my professional journey, I have built strong expertise across **software development, database engineering, software testing, and technical education**.
 My background includes extensive experience as a **Software Developer**, **Database Administrator (DBA)**, and **Quality Assurance professional**, which allows me to approach testing with a **deep understanding of system architecture, code behavior, and software quality risks**.
 
 Over the years, I have also worked as an **IT Instructor for more than 19 years**, teaching programming, databases, and software development concepts in several well-known educational institutions in Brazil. During this time, I helped train **over a thousand new IT professionals** entering the technology industry.
@@ -38,25 +39,20 @@ My goal is to contribute to a **high-performing engineering team in the United S
 
 My mission as a QA Engineer is to **improve software quality through intelligent testing, automation, and collaboration with development teams**, ensuring that products are **stable, scalable, and reliable for users**.
 
-
-## My QA Engineering Philosophy
+---
+### My QA Engineering Philosophy
 
 I believe that quality is not only about finding bugs, but about understanding systems, identifying risks, and helping teams deliver reliable software.
 Testing should provide fast feedback to developers and support continuous delivery through automation, exploratory testing, and smart test design.
 ---
 
 ### Let's Connect
-
 If you are a recruiter or engineering leader interested in **QA Automation, Software Testing, or Quality Engineering**, feel free to connect with me on **LinkedIn**.
 
 - 🔭 I’m currently working on **Sales Automation Testing**
-
 - 🌱 I’m currently looking for a **QA Software Engineer** job and to collaborate on **programing IT team in American companies**
-
 - 🤝 I’ll help you with **manual and automatic tests** projects
-
 - 💬 Ask me about **my large experience with big companies in Brazil and USA**
-
 - 📫 How to reach me **eldinaldolustosa@gmail.com** or in my LinkedIn profile **https://www.linkedin.com/in/eldinaldolustosa/**
 
 <h3 align="left">Connect with me:</h3>

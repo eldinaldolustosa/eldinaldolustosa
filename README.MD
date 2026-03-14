@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
-<h3 align="center">A passionate QA Software Engineer from Brazil. Today I'm living in America, Deerfield Beach/FL. I worked for 32 years in IT's companies (yes I'm start with autoditata knowlegment at 15 years old) I was a deveoper for a long time im my carreer. I worked as a IT Teacher during 19 years in five renomades companies in Brazil, as DBA Master in Stadual Wather Company from Brasilia (the captal) of Brazil, where I management lot of projects as a Manual tester. too. My goal today it's start to work in a IT company in the USA and will be part of a big team.</h3>
+<h3 align="center">A passionate QA Software Engineer from Brazil. Today I'm living in America, Deerfield Beach/FL. I worked for 32 years in IT's companies (yes I'm start with autoditata knowlegment at 15 years old) I was a deveoper for a long time im my carreer. I worked as a IT Teacher during 19 years in five renomades schoolar and learning companies in Brazil, as DBA Master in Stadual Wather Company from Brasilia (the captal) of Brazil, and on educacional area where I management lot of projects as a Manual tester. too. My goal today it's start to work in a IT company in the USA and will be part of a big team.</h3>
 
 - 🔭 I’m currently working on **Sales Automation Testing**
 

@@ -1,5 +1,54 @@
 <h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
-<h3 align="center">A passionate QA Software Engineer from Brazil. Today I'm living in America, Deerfield Beach/FL. I worked for 32 years in IT's companies (yes I'm start with autoditata knowlegment at 15 years old) I was a deveoper for a long time im my carreer. I worked as a IT Teacher during 19 years in five renomades schoolar and learning companies in Brazil, as DBA Master in Stadual Wather Company from Brasilia (the captal) of Brazil, and on educacional area where I management lot of projects as a Manual tester. too. My goal today it's start to work in a IT company in the USA and will be part of a big team.</h3>
+<h3 align="left">
+## QA Software Engineer | Automation | Quality Engineering <br><br>
+I am a passionate **QA Software Engineer from Brazil**, currently based in **Deerfield Beach, Florida (USA)**.
+
+I bring over **30 years of experience in Information Technology**, starting my career at the age of 15 as a self-taught developer. Throughout my professional journey, I have built strong expertise across **software development, database engineering, software testing, and technical education**.
+My background includes extensive experience as a **Software Developer**, **Database Administrator (DBA)**, and **Quality Assurance professional**, which allows me to approach testing with a **deep understanding of system architecture, code behavior, and software quality risks**.
+
+Over the years, I have also worked as an **IT Instructor for more than 19 years**, teaching programming, databases, and software development concepts in several well-known educational institutions in Brazil. During this time, I helped train **over a thousand new IT professionals** entering the technology industry.
+I also worked as a **Database Administrator (DBA)** for the **Water and Sanitation Company of Brasília**, where I managed databases, supported enterprise systems, and contributed to the reliability and performance of critical infrastructure applications.
+
+More recently, I have focused my career on **Software Quality Engineering and Test Automation**, working with modern tools and practices such as:
+
+- Test Automation Frameworks
+- API Testing
+- CI/CD Test Integration
+- Automation with JavaScript
+- Web and Backend Testing
+- Agile and Quality Engineering practices
+
+My goal is to contribute to a **high-performing engineering team in the United States**, helping organizations deliver **reliable, scalable, and high-quality software products** through effective **testing strategies, automation, and quality processes**.
+
+---
+### Core Areas of Expertise
+
+• Test Automation (Selenium, Cypress, Playwright)  
+• API Testing (Postman, REST APIs)  
+• CI/CD Test Integration (GitHub Actions)  
+• JavaScript & TypeScript Test Development  
+• Manual and Exploratory Testing  
+• Quality Engineering & Test Strategy  
+• Agile Testing Practices  
+• Risk-Based Testing
+• End to End Testing
+
+---
+### Mission
+
+My mission as a QA Engineer is to **improve software quality through intelligent testing, automation, and collaboration with development teams**, ensuring that products are **stable, scalable, and reliable for users**.
+
+
+## My QA Engineering Philosophy
+
+I believe that quality is not only about finding bugs, but about understanding systems, identifying risks, and helping teams deliver reliable software.
+Testing should provide fast feedback to developers and support continuous delivery through automation, exploratory testing, and smart test design.
+---
+
+### Let's Connect
+
+If you are a recruiter or engineering leader interested in **QA Automation, Software Testing, or Quality Engineering**, feel free to connect with me on **LinkedIn**.
+</h3>
 
 - 🔭 I’m currently working on **Sales Automation Testing**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
 <align="left">
----
+
 ### QA Software Engineer | Automation | Quality Engineering <br><br>
 ---
 I am a passionate **QA Software Engineer from Brazil**, currently based in **Deerfield Beach, Florida (USA)**.
@@ -38,7 +38,6 @@ My goal is to contribute to a **high-performing engineering team in the United S
 
 ---
 ### Mission
-
 My mission as a QA Engineer is to **improve software quality through intelligent testing, automation, and collaboration with development teams**, ensuring that products are **stable, scalable, and reliable for users**.
 
 ---

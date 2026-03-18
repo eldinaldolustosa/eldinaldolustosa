@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eldinaldo Lustosa, but call me Eddie.</h1>
 <align="left">
 
-### QA Software Engineer | Automation | Quality Engineering <br><br>
+### QA Software Engineer | Automation | Software Tester <br><br>
 ---
 I am a passionate **QA Software Engineer from Brazil**, currently based in **Deerfield Beach, Florida (USA)**.
 

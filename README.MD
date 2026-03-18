@@ -55,6 +55,7 @@ If you are a recruiter or engineering leader interested in **QA Automation, Soft
 - 🤝 I’ll help you with **manual and automatic tests** projects
 - 💬 Ask me about **my large experience with big companies in Brazil and USA**
 - 📫 How to reach me **eldinaldolustosa@gmail.com** or in my LinkedIn profile **https://www.linkedin.com/in/eldinaldolustosa/**
+- See my portfolio here **https://github.com/eldinaldolustosa/qa-portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
